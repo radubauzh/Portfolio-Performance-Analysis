@@ -1,0 +1,4 @@
+ticker,name,currency,sector,start_value_usd,pnl_usd,local_return,fx_return,total_return_usd
+NESN,NESTLE SA-REG,CHF,Consumer Staples,109605.00,90670.00,0.096346,0.666667,0.827243
+OR,L'OREAL,EUR,Consumer Staples,294800.00,49924.00,0.016825,0.150000,0.169349
+CAT,CATERPILLAR INC,USD,Industrials,371110.74,36618.66,0.098673,0.000000,0.098673

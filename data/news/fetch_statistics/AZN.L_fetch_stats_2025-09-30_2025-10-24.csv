@@ -1,0 +1,2 @@
+symbol,date_from,date_to,api_source,total_found,fetch_attempted,fetch_success,fetch_blocked,fetch_error,filtered_word_count,filtered_relevance,articles_saved,fallback_used,min_relevance,max_relevance,avg_relevance
+AZN.L,2025-09-30,2025-10-24,marketaux,20,20,17,2,1,0,6,11,False,0.2,0.52,0.378

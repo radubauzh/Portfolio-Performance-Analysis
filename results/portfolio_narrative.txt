@@ -1,0 +1,48 @@
+The portfolio gained 8.81% from September 30 to October 24, 2025, generating $146,380 in profit.
+Nestlé SA-REG (NESN.SW) was the largest contributor, advancing 82.72% and adding $90,670 to portfolio value after the company announced roughly 16,000 job cuts and raised its cost-savings target to CHF 3 billion alongside better-than-expected Q3 organic growth, which sent shares sharply higher; the move comprised a 9.63% local gain and a substantial 66.7% FX tailwind [2][3].
+L’Oréal (OR.PA) was also a key contributor, rising 16.93% and adding $49,924 as nine-month sales reached €32.8 billion with 3.4% like-for-like growth and the company agreed to acquire Kering’s beauty unit, including Creed and long-term licences for Gucci, Balenciaga and Bottega Veneta; performance reflected a 1.68% local return and a 15.0% FX boost [4][5][6].
+Caterpillar Inc (CAT) gained 9.87%, contributing $36,619, as investors looked ahead to the upcoming Q3 print and the newly announced Nov. 4 Investor Day webcast outlining strategic priorities, despite cautious earnings previews [7][8][9].
+On the downside, AstraZeneca PLC (AZN.L) was the primary drag, declining 13.54% and reducing portfolio value by $23,853; despite J.P. Morgan maintaining a Buy rating with a £140 price target and headlines around shares hitting an all-time high on tariff-delay reports, the stock’s 12.07% local gain was more than offset by unfavorable currency movements of -22.9% [10][11].
+Home Depot Inc (HD) fell 4.57%, detracting $13,327, as the shares eased despite ongoing dividend appeal and the recently completed $5.5 billion acquisition of GMS Inc. through SRS Distribution [13][15].
+JPMorgan Chase & Co (JPM) declined 4.29%, reducing portfolio value by $10,098, even as Q3 results showed robust revenue growth and a beat versus expectations, with investors focusing on credit costs and expense headwinds [16][18].
+
+Broadly, FX was a major driver this period—Swiss franc and euro strength amplified returns in Nestlé and L’Oréal, while sterling weakness hurt AstraZeneca.
+Positioning-wise, Consumer Staples rose 5.8pp to 30.1%, leaving the sleeve materially above its 24% target overweight; Industrials edged to 22.5% versus a 22% target; Information Technology held near its 11% target; while Financials and Consumer Discretionary fell to 12.5% and 15.4% respectively, both now below their 14% and 18% targets, and Health Care slipped to 8.4% versus an 11% target underweight.
+
+Sources:
+[1] Nestlé announces 16000 job cuts worldwide over next two years - lemonde.fr, 
+    https://www.lemonde.fr/en/economy/article/2025/10/16/nestle-announces-16000-job-cuts-worldwide-over-next-two-years_6746475_19.html
+[2] Nestle to cut 16000 jobs as new CEO ignites turnaround fire - reuters.com, 
+    https://www.reuters.com/business/nestle-reports-better-than-expected-sales-growth-with-new-ceo-helm-2025-10-16/
+[3] Nestlé to cut thousands of jobs worldwide over next two years - swissinfo.ch, 
+    https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-cuts-thousands-of-jobs/90175085
+[4] Sales at 30 September 2025: group sales €32.8 bn - Loreal, 
+    https://www.loreal.com/en/press-release/finance/sales-at-september-30-2025/
+[5] L’Oréal to acquire Kering’s beauty unit for €4 billion - Reuters, 
+    https://www.reuters.com/business/kering-sell-beauty-unit-loreal-466-billion-2025-10-19/
+[6] Kering and L’Oréal forge an alliance in beauty and wellness - Kering, 
+    https://www.kering.com/en/news/kering-and-l-oreal-forge-an-alliance-in-beauty-and-wellness/
+[7] Caterpillar’s Quarterly Earnings Preview: What You Need to Know - Yahoo, 
+    https://finnhub.io/api/news?id=327e53308ca7a97b5cd8775dc6034a6a291e86bdfdfded0e5485ca5fc7ed422e
+[8] Earnings Preview: Caterpillar (CAT) Q3 Earnings Expected to Decline - Yahoo, 
+    https://finnhub.io/api/news?id=b52a95a9d4b75bb73ad51cbbbfed011013edef42f011e2f9631421255bb33c05
+[9] Caterpillar Inc. to Offer Video Webcast of 2025 Investor Day - Yahoo, 
+    https://finnhub.io/api/news?id=70a6642109ba61f34a7e286d820e9d68c7c7ab8bfa96bf8c027cae626f1d58e8
+[10] J.P. Morgan Maintains a Buy Rating on AstraZeneca PLC (AZN), Sets a £140 PT - finance.yahoo.com, 
+    https://finance.yahoo.com/news/j-p-morgan-maintains-buy-023546127.html
+[11] AstraZeneca (AZN) Jumps to All-Time High on Trump Drug Tariff Delay - finance.yahoo.com, 
+    https://finance.yahoo.com/news/astrazeneca-azn-jumps-time-high-074855557.html
+[12] J.P. Morgan Maintains a Buy Rating on AstraZeneca PLC (AZN), Sets a £140 PT - Insider Monkey - insidermonkey.com, 
+    https://www.insidermonkey.com/blog/j-p-morgan-maintains-a-buy-rating-on-astrazeneca-plc-azn-sets-a-140-pt-1631686/
+[13] The Home Depot’s (HD) Steady Cash Flows Keep it on the List of Promising Dividend Stocks to Watch - Yahoo, 
+    https://finnhub.io/api/news?id=662c35680aac9188735bc3d361ac11dff487369f0aa1a4fcff0e654b2a38dc58
+[14] Home Depot (HD): A Reliable Dividend Stock with Strong Profitability - Yahoo, 
+    https://finnhub.io/api/news?id=e2415c024ea0c80ed43475ab676d7eb206f856248a3ec2640b447a3e26b34f42
+[15] The Home Depot, Inc. (HD) Successfully Acquires GMS Inc. for $5.5 Billion - Yahoo, 
+    https://finnhub.io/api/news?id=ab32f62942ca54d29d2ff284ffd5c921159748dc95ab4e7f452659acf73c3071
+[16] JPMorgan Chase & Co (JPM) Q3 2025 Earnings Call Highlights: Strong Revenue Growth Amid ... - Yahoo, 
+    https://finnhub.io/api/news?id=b262eff1096b6d9a44e061a935862fe33c7c361aca940b3c1dc7ee8fa652bf2f
+[17] JPMorgan Chase (JPM): Evaluating Valuation After Strong Q3 Earnings and Landmark New Headquarters Opening - Yahoo, 
+    https://finnhub.io/api/news?id=fff69b6d787fd1c9d7af4c4f21b17e79407ca0a25cbf8042479daa427f3c574f
+[18] JPM Q3 Deep Dive: Markets Revenue and Consumer Resilience Drive Results Amid Credit and Expense Headwinds - Yahoo, 
+    https://finnhub.io/api/news?id=5adf3d4443aad11f6ed024d3c41e3ea4f873ac40864315e5607184b2b0f87e2a

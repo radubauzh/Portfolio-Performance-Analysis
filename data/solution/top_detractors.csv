@@ -1,0 +1,4 @@
+ticker,name,currency,sector,start_value_usd,pnl_usd,local_return,fx_return,total_return_usd
+AZN,ASTRAZENECA PLC,GBP,Health Care,176116.50,-23852.70,0.120730,-0.228571,-0.135437
+HD,HOME DEPOT INC,USD,Consumer Discretionary,291736.80,-13327.20,-0.045682,0.000000,-0.045682
+JPM,JPMORGAN CHASE & CO,USD,Financials,235427.93,-10097.93,-0.042892,0.000000,-0.042892

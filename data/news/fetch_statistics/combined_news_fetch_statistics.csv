@@ -1,0 +1,7 @@
+symbol,date_from,date_to,api_source,total_found,fetch_attempted,fetch_success,fetch_blocked,fetch_error,filtered_word_count,filtered_relevance,articles_saved,fallback_used,min_relevance,max_relevance,avg_relevance
+HD,2025-09-30,2025-10-24,finnhub,86,86,64,21,1,10,22,32,False,0.12,1.0,0.42
+NESN.SW,2025-09-30,2025-10-24,marketaux,3,3,1,2,0,0,1,1,True,,,
+OR.PA,2025-09-30,2025-10-24,marketaux,1,1,0,1,0,0,0,1,True,,,
+CAT,2025-09-30,2025-10-24,finnhub,103,103,70,31,2,16,24,30,False,0.12,1.0,0.508
+JPM,2025-09-30,2025-10-24,finnhub,226,226,183,41,2,56,49,78,False,0.12,1.0,0.473
+AZN.L,2025-09-30,2025-10-24,marketaux,20,20,17,2,1,0,6,11,False,0.2,0.52,0.378
