@@ -209,3 +209,6 @@ __marimo__/
 # ignore .DS_Store files on macOS
 .DS_Store
 .vscode/
+
+# add .DS_Store
+.DS_Store
